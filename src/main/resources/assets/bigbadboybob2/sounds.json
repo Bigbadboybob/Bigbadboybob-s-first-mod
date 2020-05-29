@@ -1,0 +1,12 @@
+{
+	"item.caveman_club.hit": {
+		"category": "item",
+		"subtitle": "item.caveman_club.hit.sub",
+		"sounds": [
+			{
+				"name": "bigbadboybob2:item/caveman_club.hit",
+				"stream": true
+			}
+		]
+	}
+}

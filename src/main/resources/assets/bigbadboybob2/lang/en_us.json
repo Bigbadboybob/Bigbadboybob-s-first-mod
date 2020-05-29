@@ -1,0 +1,11 @@
+{
+	"item.bigbadboybob2.caveman_egg_item": "caveman spawn egg",
+	"item.bigbadboybob2.caveman_club": "caveman club",
+	
+	"entity.bigbadboybob2.caveman_entity": "test",
+	
+	"item.caveman_club.hit": "Caveman Club Sound",
+	"item.caveman_club.hit.sub": "Caveman Club Sound!"
+	
+	
+}
